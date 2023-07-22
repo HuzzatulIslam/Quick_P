@@ -1,0 +1,35 @@
+Web design
+Codee commneting 
+semantic markup-html
+section define-html
+reusable block, html,css
+*******css heirerchey
+widhth
+height
+font-family
+font size
+fgont weight
+color
+letter spacing 
+word spacing
+word wrapping
+common code-css
+
+*******speed optimizations
+html:
+img
+audio
+video
+map
+css:
+code
+****SEO
+h1-h6
+p
+img-name,alt,tag
+strong , em
+meta
+
+ui ux
+
+
